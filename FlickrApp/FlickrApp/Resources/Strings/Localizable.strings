@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  FlickrApp
+
+  Created by Ahmad Ansari on 09/10/2017.
+  Copyright © 2017 Ahmad Ansari. All rights reserved.
+*/
+
+"KEY_STRING_APP_TITLE" = "Flickr Photos";
+"KEY_STRING_SEARCH_HISTORY" = "Search History";

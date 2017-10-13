@@ -1,0 +1,6 @@
+framework module UICollectionView_NSFetchedResultsController {
+  umbrella header "UICollectionView+NSFetchedResultsController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,28 @@
+//
+//  FLPrefixHeader.pch
+//  FlickrApp
+//
+//  Created by Ahmad Ansari on 11/10/2017.
+//  Copyright © 2017 Ahmad Ansari. All rights reserved.
+//
+
+#ifndef FLPrefixHeader_pch
+#define FLPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#import <AFNetworking/AFNetworking.h>
+#import <CocoaLumberjack/CocoaLumberjack.h>
+#import <MBProgressHUD/MBProgressHUD.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "Macros.h"
+#import "FLDefines.h"
+#import "Constants.h"
+#import "Database.h"
+#import "AXNetworkManager.h"
+#import "NSNotificationCenter+Additions.h"
+
+#endif /* FLPrefixHeader_pch */
